@@ -69,12 +69,12 @@ export function Hero() {
           </div>
         </div>
 
-        <div className="relative size-56 shrink-0 overflow-hidden rounded-full border-4 border-accent/20 shadow-xl sm:size-72">
+        <div className="relative size-72 shrink-0 -rotate-6 overflow-hidden rounded-full border-4 border-accent/20 shadow-xl sm:size-96 lg:size-[28rem]">
           <Image
             src={profile.photo}
             alt={profile.name}
             fill
-            sizes="(min-width: 640px) 288px, 224px"
+            sizes="(min-width: 1024px) 448px, (min-width: 640px) 384px, 288px"
             className="object-cover"
             priority
           />
