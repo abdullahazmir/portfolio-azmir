@@ -9,7 +9,7 @@ if (!uri) {
 
 const projects: Project[] = [
   {
-    slug: "house-rent-management-system",
+    slug: "House-rent-management-system",
     name: "House Rent Management System",
     image: "/projects/house-rent.jpg",
     shortDescription:
