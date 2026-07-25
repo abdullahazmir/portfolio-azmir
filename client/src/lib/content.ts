@@ -8,6 +8,7 @@ export const profile = {
     "I am a Full-Stack Web Developer with a Mechanical Engineering background and a passion for building modern, user-friendly web applications.",
     "My journey into software development started with a curiosity about how web applications work. Since then, I've dedicated myself to learning modern technologies such as React, Next.js, Node.js, Express.js, and MongoDB through continuous practice and real-world projects.",
     "Besides programming, I enjoy solving technical problems, learning new technologies, sharing knowledge, and continuously improving my skills. I believe in lifelong learning and building software that creates real value.",
+    "Outside of work, I love traveling and reading books, and I cherish spending time with my family.",
   ],
 };
 
@@ -57,7 +58,7 @@ export const education = [
   {
     degree: "Bachelor of Science (B.Sc.) in Mechanical Engineering",
     institution: "Khulna University of Engineering & Technology (KUET)",
-    year: "2018", // TODO: replace with actual graduation year
+    year: "2013 – 2018",
   },
 ];
 
