@@ -19,9 +19,9 @@ export const socials = {
 };
 
 export const contact = {
-  email: "your.email@example.com",
-  phone: "+880 1XXXXXXXXX",
-  whatsapp: "+880 1XXXXXXXXX",
+  email: "ab.azmir@gmail.com",
+  phone : "+880 1623-693214",
+  whatsapp: "+880 1623-693214",
 };
 
 export const skills = [
@@ -35,7 +35,6 @@ export const skills = [
       "React.js",
       "Next.js",
       "React Router",
-      "TanStack Query",
       "DaisyUI",
       "HeroUI",
     ],
@@ -46,11 +45,11 @@ export const skills = [
   },
   {
     category: "Database",
-    items: ["MongoDB", "Firebase"],
+    items: ["MongoDB", "Database Design", "CRUD Operations"],
   },
   {
     category: "Tools",
-    items: ["Git", "GitHub", "VS Code", "Postman", "Vercel", "Netlify", "npm"],
+    items: ["Git", "GitHub", "VS Code", "Vercel", "Netlify", "npm"],
   },
 ];
 
@@ -58,7 +57,7 @@ export const education = [
   {
     degree: "Bachelor of Science (B.Sc.) in Mechanical Engineering",
     institution: "Khulna University of Engineering & Technology (KUET)",
-    year: "20XX", // TODO: replace with actual graduation year
+    year: "2018", // TODO: replace with actual graduation year
   },
 ];
 
