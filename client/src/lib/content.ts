@@ -13,9 +13,9 @@ export const profile = {
 
 export const socials = {
   github: "https://github.com/abdullahazmir",
-  linkedin: "https://linkedin.com/in/",
+  linkedin: "https://www.linkedin.com/in/abdullah-azmir",
   x: "https://x.com/azmir46598",
-  facebook: "https://facebook.com/",
+  facebook: "https://web.facebook.com/abdullah.azmir.285794",
 };
 
 export const contact = {
