@@ -17,7 +17,7 @@ const projects: Project[] = [
     description:
       "A complete house rent management platform where tenants can browse properties and landlords can manage rentals. Landlords can list properties, tenants can browse and book, and both sides get a dashboard tailored to their role.",
     techStack: ["Next.js", "React", "MongoDB", "Better Auth", "Tailwind CSS"],
-    liveLink: "",
+    liveLink: "https://house-rent-management1357.vercel.app",
     githubClientLink: "https://github.com/abdullahazmir/house-rent-management",
     challenges: "Authentication, booking workflow, database relationships.",
     futureImprovements: "Online payment, notifications, admin dashboard.",
@@ -31,7 +31,7 @@ const projects: Project[] = [
     description:
       "A responsive law firm website featuring lawyer profiles, services, appointments, and modern UI. Built to give a professional web presence with clear service listings and an appointment request flow.",
     techStack: ["React", "Tailwind CSS", "Express.js", "MongoDB"],
-    liveLink: "",
+    liveLink: "https://legal-solutions-client.vercel.app",
     githubClientLink: "https://github.com/abdullahazmir/legal-solutions-client",
     challenges: "Responsive layouts, dynamic routing.",
     futureImprovements: "Client portal, appointment management, dashboard.",
@@ -45,7 +45,7 @@ const projects: Project[] = [
     description:
       "A full-stack AI-powered tools marketplace where users can discover, manage, and access various online tools.Built a responsive platform using Next.js, React, Node.js, Express, and MongoDB.",
     techStack: ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
-    liveLink: "",
+    liveLink: "https://all-tools-lilac.vercel.app",
     githubClientLink: "https://github.com/abdullahazmir/all-tools",
     challenges: "Product management, search and filtering, shopping cart.",
     futureImprovements: " inventory management, order tracking.",
