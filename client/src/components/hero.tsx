@@ -69,7 +69,7 @@ export function Hero() {
           </div>
         </div>
 
-        <div className="relative size-72 shrink-0 -rotate-6 overflow-hidden rounded-full border-4 border-accent/20 shadow-xl sm:size-96 lg:size-[28rem]">
+        <div className="relative size-72 shrink-0 overflow-hidden rounded-full border-4 border-accent/20 shadow-xl sm:size-96 lg:size-[28rem]">
           <Image
             src={profile.photo}
             alt={profile.name}
