@@ -12,9 +12,9 @@ export const profile = {
 };
 
 export const socials = {
-  github: "https://github.com/",
+  github: "https://github.com/abdullahazmir",
   linkedin: "https://linkedin.com/in/",
-  x: "https://x.com/",
+  x: "https://x.com/azmir46598",
   facebook: "https://facebook.com/",
 };
 
