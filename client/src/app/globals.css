@@ -1,0 +1,27 @@
+@import "@heroui/styles";
+
+:root {
+  --accent: oklch(0.551 0.194 262.1); /* #2563EB brand blue */
+  --accent-foreground: var(--white);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+.dark {
+  --accent: oklch(0.623 0.188 262.1);
+}
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
